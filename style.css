@@ -156,7 +156,7 @@ h1 em {
   padding: 65px clamp(20px, 8vw, 120px) 76px;
   background:
     linear-gradient(90deg, #fcfbf5d9 0%, #fcfbf5c2 48%, #fcfbf5a6 100%),
-    url('images/AMAZING%20TOOL%20FOR%20CLEANING%20HOME.jfif') center / cover
+    url('images/AMAZING\ TOOL\ FOR\ CLEANING\ HOME\ png.jpg') center / cover
       no-repeat;
 }
 
@@ -367,6 +367,12 @@ h1 em {
   background: var(--cream);
 }
 
+.contact-page-hero {
+  background:
+    linear-gradient(90deg, #fcfbf5cc 0%, #fcfbf5ad 50%, #fcfbf566 100%),
+    url("images/png%20sofar.jpg") center 55% / cover;
+}
+
 .page-hero h1 {
   max-width: 850px;
 }
@@ -394,7 +400,7 @@ h1 em {
   border-radius: 24px;
   background:
     linear-gradient(#04351fbb, #04351fcc),
-    url('images/Professional%20cleaning%20banner%20copy%20space%20poster%20and%20flyer%20_%20Premium%20AI-generated%20image.jfif')
+    url('images/png\ mop.jpg')
       center / cover no-repeat;
   color: #fff;
 }
